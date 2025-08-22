@@ -29,7 +29,33 @@ Database: MongoDB
 
 📂 Project Structure
 E-Learning-Platform/
-│
-├── frontend/    # React application (UI/UX for students)
-├── backend/     # API, database, and server logic
-└── README.md    # Documentation and setup guide
+
+frontend/    # React application (UI/UX for students)
+backend/     # API, database, and server logic
+README.md    # Documentation and setup guide
+
+🖥️ How to Open
+
+Download the project
+
+Click on the green Code button (top-right) → Download ZIP
+
+Extract the ZIP file on your system
+
+Open in VS Code
+
+Launch Visual Studio Code
+
+Go to File → Open Folder → select the extracted project folder
+
+Navigate to Backend
+
+cd backend
+
+
+Run the Project
+
+npm run dev
+
+
+The server will start, and you can access the platform in your browser. 🎉
