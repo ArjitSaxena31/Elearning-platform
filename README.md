@@ -28,9 +28,3 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 📂 Project Structure
-
-E-Learning-Platform/
-│
-├── frontend/    # React application (UI/UX for students)
-├── backend/     # API, database, and server logic
-└── README.md    # Documentation and setup guide
